@@ -14,7 +14,7 @@ blueprint:
         device:
           integration: zha
           manufacturer: _TZ3000_dziaict4
-          model: TS0044
+          model: TS0044_1
     single_press_1:
       name: Single press button 1
       description: Action to run on single press of button 1
